@@ -1,0 +1,68 @@
+
+[
+  {
+    "title": "Spicy Chicken Curry",
+    "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "chili powder", "turmeric", "coriander powder", "cumin powder", "garam masala", "coconut milk", "vegetable oil", "salt", "black pepper", "cilantro"],
+    "instructions": "In a large skillet, heat vegetable oil over medium heat. Add chopped onion, minced garlic, and grated ginger. Cook until softened. Add diced tomatoes and cook until they break down. Stir in chili powder, turmeric, coriander powder, cumin powder, and garam masala. Add chicken thighs and cook until browned. Pour in coconut milk and simmer until chicken is cooked through. Season with salt and black pepper. Garnish with chopped cilantro before serving."
+  },
+  {
+    "title": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "white wine", "vegetable broth", "butter", "parmesan cheese", "olive oil", "salt", "black pepper", "thyme"],
+    "instructions": "In a saucepan, heat vegetable broth and keep it warm. In a separate large skillet, heat olive oil over medium heat. Add chopped onion and minced garlic, cook until translucent. Add sliced mushrooms and cook until they release their moisture. Stir in arborio rice and cook for a few minutes until translucent. Pour in white wine and cook until absorbed. Gradually add warm vegetable broth, stirring frequently, until rice is creamy and tender. Stir in butter and grated parmesan cheese. Season with salt, black pepper, and thyme."
+  },
+  {
+    "title": "Beef Tacos",
+    "ingredients": ["ground beef", "taco seasoning", "tortillas", "shredded lettuce", "diced tomatoes", "shredded cheese", "sour cream", "salsa", "avocado", "lime", "salt", "black pepper", "cilantro"],
+    "instructions": "In a skillet, cook ground beef over medium heat until browned. Drain excess fat and season with taco seasoning. Warm tortillas in a separate skillet or microwave. Assemble tacos by filling tortillas with seasoned beef, shredded lettuce, diced tomatoes, shredded cheese, sour cream, salsa, and sliced avocado. Squeeze lime juice over tacos and season with salt, black pepper, and chopped cilantro. Serve immediately."
+  },
+  {
+    "title": "Pesto Pasta",
+    "ingredients": ["pasta", "fresh basil", "garlic", "pine nuts", "parmesan cheese", "olive oil", "salt", "black pepper", "lemon juice"],
+    "instructions": "Cook pasta according to package instructions. In a food processor, combine fresh basil, minced garlic, toasted pine nuts, grated parmesan cheese, olive oil, salt, black pepper, and lemon juice. Blend until smooth. Toss cooked pasta with pesto sauce until well coated. Serve hot, garnished with extra parmesan cheese and basil leaves."
+  },
+  {
+    "title": "Vegetable Stir-Fry",
+    "ingredients": ["mixed vegetables (bell peppers, broccoli, carrots, snap peas, etc.)", "tofu or chicken", "soy sauce", "sesame oil", "garlic", "ginger", "rice", "vegetable oil", "salt", "black pepper"],
+    "instructions": "Cook rice according to package instructions. Heat vegetable oil in a large skillet or wok over high heat. Add minced garlic and ginger, cook until fragrant. Add tofu or chicken, cook until browned. Add mixed vegetables and stir-fry until tender-crisp. Season with soy sauce, sesame oil, salt, and black pepper. Serve over cooked rice."
+  },
+  {
+    "title": "Baked Salmon",
+    "ingredients": ["salmon fillets", "lemon", "garlic", "olive oil", "dill", "salt", "black pepper"],
+    "instructions": "Preheat oven to 375°F (190°C). Place salmon fillets on a baking sheet lined with parchment paper. Drizzle with olive oil and lemon juice. Season with minced garlic, chopped dill, salt, and black pepper. Bake for 12-15 minutes until salmon is cooked through and flakes easily with a fork. Serve hot with lemon wedges."
+  },
+  {
+    "title": "Caprese Salad",
+    "ingredients": ["tomatoes", "fresh mozzarella cheese", "fresh basil leaves", "balsamic vinegar", "olive oil", "salt", "black pepper"],
+    "instructions": "Slice tomatoes and fresh mozzarella cheese into rounds. Arrange alternating slices on a serving plate. Tuck fresh basil leaves between the tomato and cheese slices. Drizzle with balsamic vinegar and olive oil. Season with salt and black pepper. Serve immediately."
+  },
+  {
+    "title": "Homemade Pizza Dough",
+    "ingredients": ["all-purpose flour", "active dry yeast", "warm water", "olive oil", "salt", "sugar"],
+    "instructions": "In a large mixing bowl, dissolve active dry yeast and sugar in warm water. Let sit for 5-10 minutes until frothy. Stir in olive oil and salt. Gradually add all-purpose flour, mixing until dough comes together. Knead the dough on a floured surface for 5-7 minutes until smooth and elastic. Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1-2 hours until doubled in size. Punch down the dough and use as desired for pizza."
+  },
+  {
+    "title": "Classic Margherita Pizza",
+    "ingredients": ["pizza dough", "tomato sauce", "fresh mozzarella cheese", "fresh basil leaves", "olive oil", "salt", "black pepper"],
+    "instructions": "Preheat oven to 475°F (245°C). Stretch out pizza dough on a baking sheet. Spread tomato sauce evenly over the dough. Tear fresh mozzarella cheese and place on top. Arrange fresh basil leaves. Drizzle with olive oil. Season with salt and black pepper. Bake for 10-12 minutes until crust is golden brown and cheese is bubbly."
+  },
+  {
+    "title": "Chicken Alfredo Pasta",
+    "ingredients": ["fettuccine pasta", "chicken breast", "heavy cream", "parmesan cheese", "butter", "garlic", "salt", "black pepper"],
+    "instructions": "Cook fettuccine pasta according to package instructions. Season chicken breast with salt and black pepper. In a skillet, melt butter over medium heat. Add minced garlic and cook until fragrant. Add chicken breast and cook until browned and cooked through. Remove chicken from skillet and set aside. In the same skillet, add heavy cream and parmesan cheese. Stir until cheese is melted and sauce is creamy. Slice chicken and add it back to the skillet. Serve sauce over cooked fettuccine pasta."
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "ingredients": ["chicken thighs", "yogurt", "ginger garlic paste", "lemon juice", "garam masala", "cumin powder", "coriander powder", "turmeric powder", "paprika", "tomato puree", "heavy cream", "butter", "onion", "garlic", "vegetable oil", "salt", "black pepper"],
+    "instructions": "In a bowl, mix yogurt, ginger garlic paste, lemon juice, garam masala, cumin powder, coriander powder, turmeric powder, paprika, salt, and black pepper. Marinate chicken thighs in the mixture for at least 1 hour. Heat vegetable oil in a skillet over medium heat. Add chopped onion and minced garlic, cook until softened. Add marinated chicken and cook until browned. Stir in tomato puree and cook for a few minutes. Add heavy cream and butter, simmer until sauce thickens. Serve with rice or naan bread."
+  },
+  {
+    "title": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "caesar dressing", "parmesan cheese", "croutons", "lemon juice", "olive oil", "garlic", "salt", "black pepper"],
+    "instructions": "Wash and dry romaine lettuce, tear into bite-sized pieces. In a large bowl, toss lettuce with caesar dressing, grated parmesan cheese, and croutons. In a small bowl, whisk together lemon juice, olive oil, minced garlic, salt, and black pepper to make a dressing. Drizzle dressing over salad and toss to combine. Serve immediately."
+  }
+]
+
+
+
+
+

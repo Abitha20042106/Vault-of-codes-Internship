@@ -1,0 +1,5 @@
+How to Use Recipe Generator:
+
+1. Run the `recipe_generator.py` script.
+2. Enter a list of ingredients separated by commas.
+3. Press Enter to generate a recipe based on the provided ingredients.
